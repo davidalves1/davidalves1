@@ -1,11 +1,17 @@
-
-
+![banner](https://github.com/davidalves1/davidalves1/blob/master/davidalves1.jpg)
 ### Hey, I'm David!👋
 ---
+[![davidalves1](https://img.shields.io/badge/-davidalves1-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalves1/)
+[![contato@davidalves1.com](https://img.shields.io/badge/-contato@davidalves1.com-red?logo=Gmail&logoColor=white)](mailto:contato@davidalves1.com)
 
-#### Interests
+:computer: Full Stack Developer  
+:sunrise_over_mountains: Born in Baixo Guandu - ES, Brazil :heart:  
+:city_sunrise: Living in Joinville - ES, Brazil
+
+#### Interests :heart_eyes:
 - Javascript
 - VueJS
+- NodeJS
 - Go
 - Docker
 
