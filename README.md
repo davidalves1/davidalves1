@@ -4,17 +4,14 @@
 [![davidalves1](https://img.shields.io/badge/-davidalves1-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidalves1/)
 [![contato@davidalves1.com](https://img.shields.io/badge/-contato@davidalves1.com-red?logo=Gmail&logoColor=white)](mailto:contato@davidalves1.com)
 
-:computer: Full Stack Developer  
+:computer: I'm a full stack developer  
 :sunrise_over_mountains: Born in Baixo Guandu - ES, Brazil :heart:  
-:city_sunrise: Living in Joinville - ES, Brazil
+:city_sunrise: Currently living in Joinville - ES, Brazil
 
 #### Interests :heart_eyes:
-- Javascript
-- VueJS
-- NodeJS
-- Go
-- Docker
+Javascript | VueJS | Node | GraphQL | Go | Docker | Serverless
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davidalves1&show_icons=true" alt="davidalves1" /> </p>
 <!--
 **davidalves1/davidalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
