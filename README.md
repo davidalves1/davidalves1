@@ -8,7 +8,7 @@
 
 :computer: I'm a full stack developer  
 :sunrise_over_mountains: Born in [Baixo Guandu - ES](https://goo.gl/maps/xiRzHQqYXNUQVcJ47), Brazil :heart:  
-:city_sunrise: Currently living in [Joinville - ES](https://goo.gl/maps/EhLiTyaAVwzHyfqo6), Brazil
+:city_sunrise: Currently living in [Joinville - SC](https://goo.gl/maps/EhLiTyaAVwzHyfqo6), Brazil
 
 #### Interests :heart_eyes:
 Javascript | VueJS | Node | GraphQL | Go | Docker | Serverless
