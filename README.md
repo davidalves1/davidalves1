@@ -19,8 +19,8 @@
 
 #### Interests :heart_eyes:
 
-- Javascript 
-- Vue
+- Javascript / Typescript
+- Vue / React
 - GraphQL
 - NodeJS
 - Go
