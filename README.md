@@ -9,7 +9,7 @@
 <a href="#">
 	<img
 		align="right"
-		src="https://github-readme-stats.vercel.app/api?username=davidalves1&show_icons=true&include_all_commits=true&hide_border=true"
+		src="https://github-readme-stats.vercel.app/api?username=davidalves1&show_icons=true&include_all_commits=true"
 	/>
 </a>
 
