@@ -15,7 +15,7 @@
 
 :computer: I'm a software engineer focused in web technologies.  
 :sunrise_over_mountains: Born in [Baixo Guandu - ES](https://goo.gl/maps/xiRzHQqYXNUQVcJ47), Brazil :heart:  
-:city_sunrise: Currently living in [Joinville - SC](https://goo.gl/maps/EhLiTyaAVwzHyfqo6), Brazil  
+:city_sunrise: Currently living in [Porto](https://goo.gl/maps/1QNH3zyd6rTJQ19v8), Portugal  
 
 #### Interests :heart_eyes:
 
