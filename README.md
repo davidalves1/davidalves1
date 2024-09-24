@@ -1,4 +1,5 @@
-![banner](https://github.com/davidalves1/davidalves1/blob/master/davidalves1.jpg)
+![banner](https://github.com/user-attachments/assets/7e34d450-c4b1-45de-a5b1-7ade50a07db2)
+
 
 ### Hey, I'm David! 👋
 ---
